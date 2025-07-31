@@ -1,0 +1,18 @@
+# === BEGIN PROTECTED ORLANDO BASHRC ===
+# ❗ Jangan ubah isi file ini! Source: https://github.com/OrlandoOfficial
+
+clear
+toilet -f pagga "Orlando" | lolcat
+toilet -f mono12 -F gay "Official"
+echo
+neofetch --ascii_distro Arch | lolcat
+echo
+echo -e "\e[1;36m<<< 🔥 Welcome to Termux, Orlando Official 🔥 >>>\e[0m" | lolcat
+echo
+echo -e "\e[1;35m📅 Tanggal: $(date '+%A, %d %B %Y')    ⏰ Jam: $(date '+%H:%M:%S')\e[0m" | lolcat
+echo
+
+# Proteksi: Jangan edit ini!
+alias bashrc-protect="echo '❌ Tidak bisa diedit. Hak cipta: https://github.com/OrlandoOfficial'"
+
+# === END PROTECTED ORLANDO BASHRC ===
